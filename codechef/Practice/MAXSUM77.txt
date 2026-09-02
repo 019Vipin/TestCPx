@@ -1,0 +1,8 @@
+// Problem: MAXSUM77
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/START254C/problems/MAXSUM77
+// Solved on: 2026-09-02T14:31:52.214Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
