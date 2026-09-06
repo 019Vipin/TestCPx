@@ -4,7 +4,7 @@
 // Language: cpp
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/smallest-stable-index-ii/
-// Solved on: 2026-09-05T07:14:16.915Z
+// Solved on: 2026-09-06T08:23:42.355Z
 
 class Solution {
 public:
