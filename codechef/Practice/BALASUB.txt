@@ -1,0 +1,8 @@
+// Problem: BALASUB
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/START255C/problems/BALASUB
+// Solved on: 2026-09-09T14:42:49.183Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
